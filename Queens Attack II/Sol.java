@@ -3,7 +3,7 @@ public class Sol
 {
 	static int queensAttack(int n, int k, int r_q, int c_q, int[][] obstacles) 
 	{
-        int i,j, r,c, sum = 0;
+        int i, j, r,c, sum = 0;
         int[] fin = new int[8];
 
         fin[1] = fin[3] = n+1;       
