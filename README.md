@@ -7,3 +7,4 @@
 <a href="https://www.hackerrank.com/challenges/encryption/problem">Encryption</a> <br>
 <a href="https://www.hackerrank.com/challenges/bigger-is-greater/problem">Bigger is Greater</a> <br>
 <a href="https://www.hackerrank.com/challenges/the-grid-search/problem">The Grid Search</a> <br>
+<a href="https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem">Fraudulent Activity Notifications - 9/10 needs further optimization</a> <br>
