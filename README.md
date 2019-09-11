@@ -6,3 +6,4 @@
 <a href="https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem">Organizing Containers of Balls</a> <br>
 <a href="https://www.hackerrank.com/challenges/encryption/problem">Encryption</a> <br>
 <a href="https://www.hackerrank.com/challenges/bigger-is-greater/problem">Bigger is Greater</a> <br>
+<a href="https://www.hackerrank.com/challenges/the-grid-search/problem">The Grid Search</a> <br>
