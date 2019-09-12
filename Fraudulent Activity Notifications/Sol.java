@@ -4,25 +4,42 @@ import java.util.List;
 
 public class Sol
 {
-	static void addAndRemove(List<Integer> med, Integer valRemove, int valAdd, int d){
-		int left = 0, right = d-1, i;
+	static void addAndRemove(List<Integer> med, int valRemove, int valAdd, int d)
+	{
+		int left = 0, right = d, i;
 		
-		med.remove(valRemove);
+		// --------------------- remove element --------------
+		while(left <= right)
+		{
+			i = (left+right)/2;
+			if(med.get(i) == valRemove)
+			{
+				med.remove(i);
+				break;
+			}
+			else if(valRemove > med.get(i))
+				left = i+1;			 
+			else 
+				right = i-1;
+		}
+		
+		// --------------------- add element ---------------
+		left = 0;
+		right = d - 1;		
 		while(left <= right)
 		{
 			i = (left+right)/2;
 			if(left == right)
 			{
-				med.add(left, valAdd);
+				med.add(i, valAdd);
 				break;
 			}
 			else if(valAdd > med.get(i)) 
 				left = i+1;			
 			else 
 				right = i;				
-		}
+		}	
 	}
-	
 	static double median(List<Integer> med, int d)
 	{
 		if(d % 2 == 1)
