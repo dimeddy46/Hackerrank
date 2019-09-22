@@ -7,5 +7,6 @@
 <a href="https://www.hackerrank.com/challenges/encryption/problem">Encryption</a> <br>
 <a href="https://www.hackerrank.com/challenges/bigger-is-greater/problem">Bigger is Greater</a> <br>
 <a href="https://www.hackerrank.com/challenges/the-grid-search/problem">The Grid Search</a> <br>
-<a href="https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem">Fraudulent Activity Notifications - Optimized</a> <br>
+<a href="https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem">Fraudulent Activity Notifications - OPTIMIZED</a> <br>
 <a href="https://www.hackerrank.com/challenges/the-time-in-words/problem">The Time in Words</a> <br>
+<a href="https://www.hackerrank.com/challenges/non-divisible-subset/problem">Non-Divisible Subset - EXPLAINED</a> <br>
