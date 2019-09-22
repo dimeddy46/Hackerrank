@@ -8,13 +8,13 @@ public class Sol
 		    int[] occ = new int[k];	// which will represent the number of occurences sorted by reminder
 		    int i,total = 0, par = k%2 == 0? 1 : 0, fin = k/2 - par;
 		    				// arranging the input array by reminder because adding any 2 elements together
-		    for(i = 0; i<S.length;i++)	// will be divisible by k, ONLY IF their reminders add to k :
+		    for(i = 0; i<S.length;i++)	// will be divisible by k, ONLY IF their reminders add to k:
 		        occ[S[i] % k]++;	// (ex. given k = 12, anything divided by k with reminder 2, added with 
 		    				// something div. by k with reminder 10, will be divisible, so this pairing must be avoided.
 		                  				
 		    for(i = 1; i<=fin;i++)	// Excluding the first element(number of divisible by k occurences, must appear only once) 
-		    {				// and the middle element(k/2, which also can't appear more than 
-		        if(occ[i] > occ[k-i])	// once in a subset because adding this (or the divisible occurences) twice, will cause pairing).
+		    {				// and the middle element(k/2, which also can't appear more than once in a subset
+		        if(occ[i] > occ[k-i])	// because adding this (or the divisible occurences) twice, will cause pairing).
 		            total += occ[i];	// This FOR gets the maximum occurences of the current position(i) which paired with the 
 		        else 			// opposite(k - i) would result in a divisible addition. So by getting ONLY the maximum
 		            total += occ[k-i];	// between the 2, until the middle, will result in the partial number of 
