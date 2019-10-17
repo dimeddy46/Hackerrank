@@ -94,7 +94,24 @@
 			<a href="https://github.com/dimeddy46/Hackerrank/blob/master/Non-Divisible Subset/Sol.java">Solution</a>
 		</td>
   </tr>  
+   
+  <tr>
+	  	<td>
+			<a href="https://www.hackerrank.com/challenges/3d-surface-area/problem">3D Surface Area</a>
+		</td>
+		<td>
+			<a href="https://github.com/dimeddy46/Hackerrank/blob/master/3D Surface Area/Sol.java">Solution</a>
+		</td>
+  </tr>  
   
+  <tr>
+	  	<td>
+			<a href="https://www.hackerrank.com/challenges/two-pluses/problem">Ema's Supercomputer</a>
+		</td>
+		<td>
+			<a href="https://github.com/dimeddy46/Hackerrank/blob/master/Ema's Supercomputer/Sol.java">Solution</a>
+		</td>
+  </tr>  
 
 
 </table>  
