@@ -1,3 +1,6 @@
+// It's impossible without converting from int to Long the default starting point of the function:
+// (int result = gridlandMetro(n, m, k, track));
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
