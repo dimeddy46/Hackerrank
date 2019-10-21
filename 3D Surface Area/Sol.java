@@ -3,10 +3,9 @@ public class Sol
 {
     static int surfaceArea(int[][] A) 
     {
-        int i,j, sum = 0, n = A.length,m;
+        int i,j, sum = 0, n = A.length,m = A[i].length;
         for(i = 0;i<n;i++)
-        {
-            m = A[i].length;
+        {         
             for(j = 0;j<m;j++)
                 sum += 2*(2*A[i][j] +1)- 
                 2*(j+1<m ?Math.min(A[i][j+1],A[i][j]):0)- 

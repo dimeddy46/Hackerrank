@@ -113,5 +113,13 @@
 		</td>
   </tr>  
 
+  <tr>
+	  	<td>
+			<a href="https://www.hackerrank.com/challenges/gridland-metro/problem">Gridland Metro</a>
+		</td>
+		<td>
+			<a href="https://github.com/dimeddy46/Hackerrank/blob/master/Gridland Metro/Sol.java">Solution</a>
+		</td>
+  </tr>  
 
 </table>  
