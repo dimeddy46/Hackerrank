@@ -1,4 +1,5 @@
 # Hackerrank
+<a href="https://www.hackerrank.com/dimeddy97">Hackerrank profile</a>
 <table style="width:100%">
   <tr>
     <th>Problem</th>
@@ -130,4 +131,12 @@
 		</td>
   </tr>  
 
+  <tr>
+	  	<td>
+			<a href="https://www.hackerrank.com/challenges/full-score/problem">Top Competitors (SQL)</a>
+		</td>
+		<td>
+			<a href="https://github.com/dimeddy46/Hackerrank/blob/master/Top Competitors (SQL)/Sol.sql">Solution</a>
+		</td>
+  </tr> 	
 </table>  
