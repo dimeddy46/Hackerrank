@@ -1,5 +1,4 @@
-# Hackerrank
-<a href="https://www.hackerrank.com/dimeddy97">Hackerrank profile</a>
+#<a href="https://www.hackerrank.com/dimeddy97">Hackerrank</a> 
 <table style="width:100%">
   <tr>
     <th>Problem</th>
