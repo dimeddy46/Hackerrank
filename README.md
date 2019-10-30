@@ -138,4 +138,12 @@
 			<a href="https://github.com/dimeddy46/Hackerrank/blob/master/Top Competitors (SQL)/Sol.sql">Solution</a>
 		</td>
   </tr> 	
+  <tr>
+	  	<td>
+			<a href="https://www.hackerrank.com/challenges/full-score/problem">Challenges (SQL)</a>
+		</td>
+		<td>
+			<a href="https://github.com/dimeddy46/Hackerrank/blob/master/Challenges (SQL)/Sol.sql">Solution</a>
+		</td>
+  </tr> 	
 </table>  
