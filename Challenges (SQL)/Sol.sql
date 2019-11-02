@@ -1,4 +1,4 @@
-// MS SQL SERVER
+--MS SQL SERVER
 
 DECLARE @mx INT = (SELECT TOP 1 COUNT(challenge_id) 
                    FROM challenges

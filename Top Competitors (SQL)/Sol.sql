@@ -1,4 +1,4 @@
-// MS SQL SERVER
+--MS SQL SERVER
 
 SELECT sub.hacker_id, (SELECT name 
 		       FROM hackers
