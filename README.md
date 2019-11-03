@@ -7,11 +7,10 @@
   
   <tr>
 	  	<td>
-			<a href="https://www.hackerrank.com/challenges/java-1d-array/problem" target="_blank">Java 1D Array (Part 2)</a>
+			<a href="https://www.hackerrank.com/challenges/java-1d-array/problem" target="_blank" rel="noopener noreferrer">Java 1D Array (Part 2)</a>
 		</td>
 		<td>
-			<a href="https://github.com/dimeddy46/Hackerrank/blob/master/
-				 Java 1D Array (Part 2)/Sol.java" target="_blank">Solution</a>
+			<a href="https://github.com/dimeddy46/Hackerrank/blob/master/Java 1D Array (Part 2)/Sol.java">Solution</a>
 		</td>
   </tr>
 
